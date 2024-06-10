@@ -20,3 +20,5 @@ This is a simple Tkinter-based GUI application for managing hall reservations. T
 1. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
 2. Clone or download this repository.
 
+![Screenshot (578)](https://github.com/AdithyaRathnayka/Hotel-Management-System/assets/99322651/f7ce70f5-442a-4d38-b435-31cad5cb86e2)
+
