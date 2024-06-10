@@ -26,3 +26,4 @@ This is a simple Tkinter-based GUI application for managing hall reservations. T
 
 ![Screenshot (580)](https://github.com/AdithyaRathnayka/Hotel-Management-System/assets/99322651/d51ec475-ae97-4de3-86a7-0a3169864a5e)
 
+![Screenshot (581)](https://github.com/AdithyaRathnayka/Hotel-Management-System/assets/99322651/f5da00ed-1157-4117-9064-ef4a41d3544a)
